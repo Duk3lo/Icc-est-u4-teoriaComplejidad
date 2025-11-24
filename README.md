@@ -232,11 +232,11 @@ public void ejemplo(int n) {
 
 # SECCIÓN 3 — CONCLUSIONES
 
-- Las complejidades cuadráticas O(n²) y superiores se vuelven muy costosas cuando el tamaño aumenta.
-- Big O es una herramienta universal para comparar algoritmos sin necesidad de ejecutarlos.
-- La búsqueda binaria demostró ser muy eficiente al crecer la entrada.
-- Los experimentos muestran que la velocidad real coincide con la teoría asintótica.
-- Esta práctica permitió comprender cómo el crecimiento de datos afecta directamente la eficiencia.
+- Aprendimos que cuando los datos crecen mucho, complejidades como O(n²) se vuelven muy lentas.
+- Vimos que la notación Big O ayuda a comparar algoritmos sin tener que ejecutarlos.
+- La búsqueda binaria resultó ser muy rápida incluso con entradas grandes.
+- En las pruebas se comprobó que la teoría coincide con el comportamiento real del programa.
+- La práctica nos permitió entender mejor cómo el tamaño de los datos afecta el rendimiento.
 
 ---
 
