@@ -1,10 +1,13 @@
+<p align="center">
+  <img src="assets/logo.png" width="150"/>
+</p>
 # PROYECTO — Teoría de la Complejidad
 Asignatura: Estructura de Datos  
 Práctica: 4.1  
 Tema: Complejidad algorítmica y eficiencia  
 Integrantes:
-- Joshue Avecillas
-- Diego Samaniego
+- Joshue Avecillas [github](https://github.com/Duk3lo) 
+- Diego Samaniego [github](https://github.com/DiegoSamaniego122)
 
 ---
 
