@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="150"/>
+  <img src="assets/logo.png" width="350"/>
 </p>
 
 # PROYECTO — Teoría de la Complejidad
