@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/logo.png" width="150"/>
 </p>
+
 # PROYECTO — Teoría de la Complejidad
 Asignatura: Estructura de Datos  
 Práctica: 4.1  
@@ -10,6 +11,7 @@ Integrantes:
 - Diego Samaniego [github](https://github.com/DiegoSamaniego122)
 
 ---
+
 
 # SECCIÓN 1 — INVESTIGACIÓN TEÓRICA
 
